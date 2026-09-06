@@ -52,5 +52,3 @@
 </p>
 
 <a href="https://github.com/ilyas-git">GitHub</a>
-
-<p align="center"><sub>Ilyas Muhammad · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
