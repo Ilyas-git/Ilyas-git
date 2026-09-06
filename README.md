@@ -1,24 +1,56 @@
-# 💫 About Me:
-# 👋 Hi there, I’m Ilyas<br><br>🎓 I’m a college student majoring in [Applied Mathematics]  <br>🧠 Currently diving deep into **Machine Learning** and **Data Science**  <br>💻 Exploring projects using Python, Jupyter, scikit-learn, and TensorFlow  <br>📚 Learning from courses, and real-world datasets
+## Ship · learn · repeat
 
+<p><code>ilyas-git@github:~$ whoami</code></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ilyas.muh24/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-muhammad-93b16b258/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilyasmuhammad.xia1@gmail.com) 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ilyas-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139024559%3Fu%3D9077c194ecf87f30057dd0e73223eb8fc5b44a2a%26v%3D4&style=terminal" alt="ilyas-git hero visual" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ilyas-git&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ilyas-git&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-git&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Ilyas Muhammad** · Data Scientist atau AI Engineer
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ilyas-git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## The current loop
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ilyas-git&limit=5&theme=radical&combine_all_yearly_contributions=true)
+> Building useful things and learning in public.
 
----
-[![](https://visitcount.itsvg.in/api?id=Ilyas-git&icon=8&color=1)](https://visitcount.itsvg.in)
+- 👥 **2** followers · **2** following
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Small, useful work over vague claims.*
+
+## Things I’m building
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Ilyas-git/AI_Interview_Assessment_System-main">AI_Interview_Assessment_System-main</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Jupyter Notebook · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Ilyas-git/Eksperimen_SML_Ilyas-Muhammad">Eksperimen_SML_Ilyas-Muhammad</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Jupyter Notebook · 0 stars</sub></td></tr>
+</table>
+
+## Launch notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=ilyas-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139024559%3Fu%3D9077c194ecf87f30057dd0e73223eb8fc5b44a2a%26v%3D4" alt="ilyas-git highlights visual" />
+</p>
+
+<p><b>Ilyas Muhammad</b> is shipping 16 public projects with 0 stars of proof.</p>
+
+## Signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ilyas-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139024559%3Fu%3D9077c194ecf87f30057dd0e73223eb8fc5b44a2a%26v%3D4" alt="ilyas-git stats visual" />
+</p>
+
+<p><code>54 contributions</code> · <code>0 day streak</code></p>
+
+## The shipping calendar
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ilyas-git&theme=neon" alt="ilyas-git contribution activity" />
+</p>
+
+## Work with me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ilyas-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139024559%3Fu%3D9077c194ecf87f30057dd0e73223eb8fc5b44a2a%26v%3D4" alt="ilyas-git social visual" />
+</p>
+
+<a href="https://github.com/ilyas-git">GitHub</a>
+
+<p align="center"><sub>Ilyas Muhammad · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
