@@ -1,4 +1,4 @@
-## Ship · learn · repeat
+## Sleep · learn · repeat
 
 <p><code>ilyas-git@github:~$ whoami</code></p>
 
